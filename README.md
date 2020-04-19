@@ -1,4 +1,4 @@
-https://travis-ci.com/adammak23/frontend-hello.svg?branch=master
+[![Build Status](https://travis-ci.com/adammak23/frontend-hello.svg?branch=master)](https://travis-ci.com/adammak23/frontend-hello)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
